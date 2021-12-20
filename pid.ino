@@ -32,9 +32,9 @@
 #define _SERVO_SPEED 70
 
 // Event periods
-#define _INTERVAL_DIST 20  // [3074] 거리측정주기 (ms)
-#define _INTERVAL_SERVO 20 // [3078] 서보제어주기 (ms)
-#define _INTERVAL_SERIAL 100 // [3078] Serial제어주기 (ms)
+#define _INTERVAL_DIST 20 
+#define _INTERVAL_SERVO 20
+#define _INTERVAL_SERIAL 100 
 
 // PID parameters
 #define _KP 1.8
